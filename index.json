@@ -12,7 +12,7 @@
         "repo": "awsl1414/Agent2Providers"
       },
       "manifest": "plugins/agent2api-providers.json",
-      "official": false,
+      "official": true,
       "tags": ["official", "providers"]
     },
     {
@@ -25,7 +25,7 @@
         "repo": "Agent2Builder/agent2api-providers-releases"
       },
       "manifest": "plugins/agent2api-web-providers.json",
-      "official": true,
+      "official": false,
       "tags": ["official", "providers", "web"]
     }
   ]
