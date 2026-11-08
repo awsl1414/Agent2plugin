@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-08",
   "plugins": [
     {
       "id": "agent2api-providers",
@@ -9,10 +9,10 @@
       "icon": "icons/agent2api-providers.png",
       "source": {
         "type": "github-release",
-        "repo": "Agent2Builder/agent2api-providers-releases"
+        "repo": "awsl1414/Agent2Providers"
       },
       "manifest": "plugins/agent2api-providers.json",
-      "official": true,
+      "official": false,
       "tags": ["official", "providers"]
     },
     {

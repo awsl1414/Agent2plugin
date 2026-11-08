@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-08",
   "app": {
-    "repo": "Agent2Builder/agent2api-releases",
+    "repo": "awsl1414/Agent2API",
     "forceUpdate": {
       "stable": { "minimumVersion": null, "targetVersion": null, "message": "" },
       "beta": { "minimumVersion": null, "targetVersion": null, "message": "" }
